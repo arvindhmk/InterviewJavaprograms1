@@ -5,8 +5,8 @@ public class IntegerCaching
     public static void main(String[] args)
     {
         //Values from -128 to 127 will autobox and follow integer caching
-        Integer num1=-128;
-        Integer num2=-128;
+        Integer num1=-129;
+        Integer num2=-129;
 
         if(num1==num2)
         {
